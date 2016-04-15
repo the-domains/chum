@@ -1,0 +1,28 @@
+name: 'Chum!'
+favicon: null
+layout_spectrum: 0.2646053060889244
+typography_spectrum: 0.9761250275187194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5163055746816099
+  lightness: 0.09240396087989211
+  saturation: 0.9692267240025103
+  rhythmicContrast: 0.11650908994488418
+purpose: []
